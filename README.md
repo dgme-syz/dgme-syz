@@ -1,6 +1,6 @@
 ## Hi 👋
 
-✨ I'm DGME, a ACMer | NLPer, hope to become a excellent coder.
+✨ I'm DGME, a ACMer | NLPer, hope to become an excellent coder.
 
 ![](https://github-readme-stats.vercel.app/api?username=dgme-syz&show_icons=true&theme=transparent) 
 
