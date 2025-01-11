@@ -4,9 +4,11 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=dgme-syz&show_icons=true&theme=transparent) 
 
-I love:
+</br>
 
-- LLM
-- Algorithm in ICPC or CCPC
-- Web Design
 
+🎨 **Hobbies:** **LLMs**, **Algorithms**, **Web Design**, **Anime**, etc.
+
+🚀 **Awards**
+- 2024 ICPC Asia East Continent Final Contest $\cdot$ **Bronze Medal** 🥉
+- CCPC 2024 Chongqing Site $\cdot$ **Silver Medal** 🥈
